@@ -843,8 +843,9 @@ svg {
   }
 
   .services__container{
-    grid-template-columns: repeat(3,352px);
+    grid-template-columns: repeat(2,352px);
     padding-block: 2.5rem 4rem;
+    justify-content: center
   }
 
   .services__card{
